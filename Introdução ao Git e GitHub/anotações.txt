@@ -1,0 +1,23 @@
+Limu Torvalds - Criador do Linux
+
+==================================================================
+
+GUI(Grafic User Interface)
+CLI(Columm Dine Interface) - No qual o Git é baseado
+
+====================================================================
+
+Atalhos do Git
+---------------
+
+Windows
+-------
+-cd
+-dir/ls
+-mkdir
+-del/remdir
+
+========================================================================
+
+SHA(Segure Hash Algorithm)
+Ojetos Fundamentais(Blobs, Trees, Commits)
