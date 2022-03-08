@@ -1,0 +1,45 @@
+Historia e conceitos
+---------------------------
+-Lançado em setembro de 1995
+-Criado por Brendan Eich
+-ECMScript
+-TC39
+	-fluxo de proposta
+	.stage 0: strawman
+	.stage 1: proposal
+	.stage 2: draft
+	.stage 3: candidate
+	.stage 4: finished
+-ES2018
+	.Operadores rest/spread
+	.Iteração assícrona
+	.Promise.prototype.finally()
+-ES.Next
+
+-Linguagem interpretada
+-Linguagem de tipagem fraca e dinâmica
+-Typesript
+-Flow
+-Closure
+
+-Currying
+-Hoisting
+-Imutabilidade
+
+Tipos e variaveis
+--------------------------
+
+-var
+-let
+-const
+
+
+-string
+-number
+-boolean
+-null
+-undefined
+-symbol
+-object
+-function
+-array
